@@ -18,7 +18,7 @@
         "heroku-postbuild": "encore production"
     },
     "dependencies": {
-        "@fortawesome/fontawesome-free": "^5.10.0",
+        "@fortawesome/fontawesome-free": "^5.15.3",
         "ckeditor": "^4.12.1",
         "datatables": "^1.10.18",
         "jquery": "^3.5.0",
